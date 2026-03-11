@@ -1,0 +1,5 @@
+.idea/
+.venv/
+__pycache__/
+*.pyc
+high_scores.json
